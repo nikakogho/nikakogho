@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikakogho
-- 👀 I’m interested in web dev, game dev, cybersecurity and all the cool stuff
-- 🌱 I’m currently learning backend dev
+- 👀 I’m interested in web dev, game dev, biotech, space and anything cool
+- 🌱 I’m currently working as .NET developer at BP and learning biotech in my free time
 - 💞️ I’m looking to collaborate on any exciting projects
 - 📫 How to reach me: nikakoghuashvili@gmail.com
