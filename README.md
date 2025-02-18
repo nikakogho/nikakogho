@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @nikakogho
-- 👀 I’m interested in web dev, game dev, biotech, space and anything cool
-- 🌱 I’m currently working as .NET developer at BP and learning biotech in my free time
+- 👀 I’m interested in building superhuman utopia, so trying to learn a little bit about AI, brain-computer-interfaces and space.
+- 🌱 I’m currently working as .NET developer at Microsoft and learning brain and space related things in my free time
 - 💞️ I’m looking to collaborate on any exciting projects
 - 📫 How to reach me: nikakoghuashvili@gmail.com
+- 🧠 My brain related notes [here](https://publish.obsidian.md/nikakogho-neuroscience/Home)
+- 🚀 My space related notes [here](https://publish.obsidian.md/nikakogho-space/Home)
