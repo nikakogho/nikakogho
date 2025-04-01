@@ -3,5 +3,7 @@
 - 🌱 I’m currently working as .NET developer at Microsoft and learning brain and space related things in my free time
 - 💞️ I’m looking to collaborate on any exciting projects
 - 📫 How to reach me: nikakoghuashvili@gmail.com
-- 🧠 My brain related notes [here](https://publish.obsidian.md/nikakogho-neuroscience/Home)
-- 🚀 My space related notes [here](https://publish.obsidian.md/nikakogho-space/Home)
+- 🧠 My brain related notes [here](https://publish.obsidian.md/nikakogho-neuroscience)
+- 🚀 My space related notes [here](https://publish.obsidian.md/nikakogho-space)
+- 🤖 My robot related notes [here](https://publish.obsidian.md/nikakogho-robots)
+- 🧬 My bioengineering related notes [here](https://publish.obsidian.md/nikakogho-bioengineering)
