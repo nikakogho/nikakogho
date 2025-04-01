@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikakogho
-- 👀 I’m interested in building superhuman utopia, so trying to learn a little bit about AI, genetic engineering, brain-computer-interfaces, space, and robots
+- 👀 I’m interested in building superhuman utopia, so trying to learn a little bit about AI, bioengineering, brain-computer-interfaces, space, and robots
 - 🌱 I’m currently working as .NET developer at Microsoft and learning brain and space related things in my free time
 - 💞️ I’m looking to collaborate on any exciting projects
 - 📫 How to reach me: nikakoghuashvili@gmail.com
