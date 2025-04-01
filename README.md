@@ -2,7 +2,8 @@
 - 👀 I’m interested in building superhuman utopia, so trying to learn a little bit about AI, bioengineering, brain-computer-interfaces, space, and robots
 - 🌱 I’m currently working as .NET developer at Microsoft and learning brain and space related things in my free time
 - 💞️ I’m looking to collaborate on any exciting projects
-- 📫 How to reach me: nikakoghuashvili@gmail.com
+- 📫 My email: nikakoghuashvili@gmail.com
+- ℹ️ My [LinkedIn](https://www.linkedin.com/in/nika-koghuashvili-4889991b4/)
 - 🧠 My brain related notes [here](https://publish.obsidian.md/nikakogho-neuroscience)
 - 🚀 My space related notes [here](https://publish.obsidian.md/nikakogho-space)
 - 🤖 My robot related notes [here](https://publish.obsidian.md/nikakogho-robots)
