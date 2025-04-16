@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on any exciting projects
 - 📫 My email: nikakoghuashvili@gmail.com
 - ℹ️ My [LinkedIn](https://www.linkedin.com/in/nika-koghuashvili-4889991b4/)
-- 🧠 My brain related notes [here](https://publish.obsidian.md/nikakogho-neuroscience)
-- 🚀 My space related notes [here](https://publish.obsidian.md/nikakogho-space)
-- 🤖 My robot related notes [here](https://publish.obsidian.md/nikakogho-robots)
-- 🧬 My bioengineering related notes [here](https://publish.obsidian.md/nikakogho-bioengineering)
+- 👋 My [personal website](https://nikakogho.github.io/)
+- 🧠 My brain related notes [here](https://nikakogho.github.io/#/vaults/Neuroscience/notes/home)
+- 🚀 My space related notes [here](https://nikakogho.github.io/#/vaults/Space/notes/home)
+- 🧬 My bioengineering related notes [here](https://nikakogho.github.io/#/vaults/Bioengineering/notes/home)
+- 🤖 My robot related notes [here](https://nikakogho.github.io/#/vaults/Robots/notes/home)
+- 🤖 My AI related notes [here](https://nikakogho.github.io/#/vaults/AI/notes/home)
